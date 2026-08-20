@@ -1,5 +1,0 @@
-# Allow all search engines. Update the domain below if it changes.
-User-agent: *
-Allow: /
-
-Sitemap: https://www.shirespostoffice.co.uk/sitemap.xml
